@@ -1,13 +1,9 @@
 import { View, Text, StyleSheet, FlatList } from 'react-native';
-import { useRoute } from '@react-navigation/native';
+
+// Load the rental data
+const rentalData = require('../data/rentals.json');
 
 export default function HomeScreen() {
-  const route = useRoute();
-  const { listings } = route.params;
-  
-  // Log the listings to verify they're being received
-  console.log('Listings:', listings);
-
   const renderItem = ({ item }) => (
     <View style={styles.listingItem}>
       <Text style={styles.title}>{item.title}</Text>
@@ -19,7 +15,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <FlatList
-        data={listings}
+        data={rentalData}
         renderItem={renderItem}
         keyExtractor={(item) => item.url}
         contentContainerStyle={styles.listContainer}
@@ -63,4 +59,4 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: '#666',
   },
-}); 
+});
