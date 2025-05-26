@@ -1,0 +1,26 @@
+[
+  {
+    "title": "1BR Apartment in Downtown",
+    "price": "$900",
+    "location": "Austin, TX",
+    "date": "2024-03-26",
+    "url": "https://example.com/listing1",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "2BR House with Garden",
+    "price": "$1,200",
+    "location": "Austin, TX",
+    "date": "2024-03-25",
+    "url": "https://example.com/listing2",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "title": "Studio Apartment Near Campus",
+    "price": "$750",
+    "location": "Austin, TX",
+    "date": "2024-03-24",
+    "url": "https://example.com/listing3",
+    "image": "https://picsum.photos/200/300"
+  }
+] 
