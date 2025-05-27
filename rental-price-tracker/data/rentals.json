@@ -5,7 +5,7 @@
     "location": "Austin, TX",
     "date": "2024-03-26",
     "url": "https://example.com/listing1",
-    "image": "https://picsum.photos/200/300"
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
   },
   {
     "title": "2BR House with Garden",
@@ -13,7 +13,7 @@
     "location": "Austin, TX",
     "date": "2024-03-25",
     "url": "https://example.com/listing2",
-    "image": "https://picsum.photos/200/300"
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
   },
   {
     "title": "Studio Apartment Near Campus",
@@ -21,6 +21,6 @@
     "location": "Austin, TX",
     "date": "2024-03-24",
     "url": "https://example.com/listing3",
-    "image": "https://picsum.photos/200/300"
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
   }
 ] 

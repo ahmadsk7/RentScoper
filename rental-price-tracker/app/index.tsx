@@ -1,15 +1,23 @@
-import { View, Text, StyleSheet, FlatList } from 'react-native';
+import { View, StyleSheet, FlatList } from 'react-native';
+import ListingCard from '../components/ListingCard';
 
 // Load the rental data
 const rentalData = require('../data/rentals.json');
 
 export default function HomeScreen() {
+  const handleSave = (item: any) => {
+    // We'll implement saving functionality later
+    console.log('Saving listing:', item.title);
+  };
+
   const renderItem = ({ item }) => (
-    <View style={styles.listingItem}>
-      <Text style={styles.title}>{item.title}</Text>
-      <Text style={styles.price}>{item.price}</Text>
-      <Text style={styles.location}>{item.location}</Text>
-    </View>
+    <ListingCard
+      title={item.title}
+      price={item.price}
+      location={item.location}
+      image={item.image}
+      onSave={() => handleSave(item)}
+    />
   );
 
   return (
@@ -30,33 +38,5 @@ const styles = StyleSheet.create({
   },
   listContainer: {
     padding: 16,
-  },
-  listingItem: {
-    backgroundColor: 'white',
-    padding: 16,
-    marginBottom: 12,
-    borderRadius: 8,
-    shadowColor: '#000',
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 4,
-    elevation: 3,
-  },
-  title: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    marginBottom: 4,
-  },
-  price: {
-    fontSize: 16,
-    color: '#2ecc71',
-    marginBottom: 4,
-  },
-  location: {
-    fontSize: 14,
-    color: '#666',
   },
 });
