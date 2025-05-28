@@ -1,30 +1,45 @@
-import { View, StyleSheet, FlatList } from 'react-native';
+import { View, StyleSheet, FlatList, TouchableOpacity, Text } from 'react-native';
+import { useState } from 'react';
 import ListingCard from '../components/ListingCard';
+import { sortByPrice } from '../utils/helpers';
 
 // Load the rental data
 const rentalData = require('../data/rentals.json');
 
 export default function HomeScreen() {
-  const handleSave = (item: any) => {
-    // We'll implement saving functionality later
-    console.log('Saving listing:', item.title);
+  const [listings, setListings] = useState(rentalData);
+  const [sortAscending, setSortAscending] = useState(true);
+
+  const handleSort = () => {
+    const sortedListings = sortByPrice(listings, sortAscending);
+    setListings(sortedListings);
+    setSortAscending(!sortAscending);
   };
 
-  const renderItem = ({ item }) => (
-    <ListingCard
-      title={item.title}
-      price={item.price}
-      location={item.location}
-      image={item.image}
-      onSave={() => handleSave(item)}
-    />
-  );
+  const handleSave = (url: string) => {
+    console.log('HomeScreen: Save callback received for URL:', url);
+  };
 
   return (
     <View style={styles.container}>
+      <TouchableOpacity style={styles.sortButton} onPress={handleSort}>
+        <Text style={styles.sortButtonText}>
+          Sort by Price {sortAscending ? '↑' : '↓'}
+        </Text>
+      </TouchableOpacity>
       <FlatList
-        data={rentalData}
-        renderItem={renderItem}
+        data={listings}
+        renderItem={({ item }) => (
+          <ListingCard
+            title={item.title}
+            price={item.price}
+            location={item.location}
+            image={item.image}
+            url={item.url}
+            date={item.date}
+            onSave={() => handleSave(item.url)}
+          />
+        )}
         keyExtractor={(item) => item.url}
         contentContainerStyle={styles.listContainer}
       />
@@ -38,5 +53,17 @@ const styles = StyleSheet.create({
   },
   listContainer: {
     padding: 16,
+  },
+  sortButton: {
+    backgroundColor: '#3498db',
+    padding: 12,
+    margin: 16,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  sortButtonText: {
+    color: 'white',
+    fontWeight: 'bold',
+    fontSize: 16,
   },
 });

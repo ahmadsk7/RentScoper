@@ -1,26 +1,2186 @@
 [
   {
-    "title": "1BR Apartment in Downtown",
+    "title": "Controlled Access, Located in Ypsilanti, 1/BD 1/BA",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-controlled-access-located-in/7852853188.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Artist’s In-Law Suite – A One-of-a-Kind Retreat",
+    "price": "$1,650",
+    "location": "Whitemore lake",
+    "url": "https://annarbor.craigslist.org/apa/d/whitmore-lake-artists-in-law-suite-one/7843914735.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/bd 1/ba, Oversized Closets, On Public Transportation Line",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ba-oversized-closets-on/7853314206.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Situated in Ypsilanti!, 2BD 1BA, Oversized Closets",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-situated-in-ypsilanti-2bd-1ba/7852765323.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "In Ypsilanti, Linen Closet, 2BD 1BA",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-in-ypsilanti-linen-closet-2bd/7853279981.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Vintage Water Hill Two Bedroom Apt",
+    "price": "$1,470",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-vintage-water-hill-two/7849933549.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Lovely 3 BR house 962 w/fenced back yard, deck, basement avail Aug 8",
+    "price": "$2,095",
+    "location": "Normal Park, Ypsilanti. Near Oakwood and Cross",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-lovely-br-house-962-fenced/7844303677.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Bark Park, Oversized Closets, Ceiling Fans",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bark-park-oversized-closets/7853198378.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ann Arbor 🛏️ 1br apartment w/ washer & dryer in unit – $700 rent",
+    "price": "$700",
+    "location": "1700 Geddes Ave",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-ann-arbor-1br-apartment/7853180919.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 bedroom apt 🏡 parking, laundry, quiet area – ann arbor $500",
+    "price": "$500",
+    "location": "Ann Arbor, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-apt-parking-laundry/7853180918.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Deal on the West Side!!!",
+    "price": "$1,450",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-deal-on-the-west-side/7852273861.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Located in Ypsilanti, 1 BD, Easy Access to Interstates",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-located-in-ypsilanti-bd-easy/7849904997.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Bedroom on 1st Floor of Home-with Access to Fully Equipped Private GYM",
+    "price": "$1,495",
+    "location": "South West Ann Arbor Close to UM Stadium",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-on-1st-floor-of-home/7853131772.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "UofM Central Campus - 1 bedroom apt., 2 blocks from DIAG",
+    "price": "$1,495",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-uofm-central-campus-bedroom/7845020672.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "UofM Central Campus - 2 blocks from DIAG",
+    "price": "$1,895",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-uofm-central-campus-blocks/7844897042.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1BD 1BA, On Public Transportation Line, Bark Park",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-1bd-1ba-on-public/7853083395.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful 1 bedroom apartment",
+    "price": "$1,650",
+    "location": "Ypsilanti MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-beautiful-bedroom-apartment/7853076475.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ypsilanti MI, On Public Transportation Line, 1/BD",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ypsilanti-mi-on-public/7853053552.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2670 Park Dr",
     "price": "$900",
-    "location": "Austin, TX",
-    "date": "2024-03-26",
-    "url": "https://example.com/listing1",
-    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+    "location": "Adrian, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/adrian-2670-park-dr/7852155196.html",
+    "image": null,
+    "date": "2025-05-26"
   },
   {
-    "title": "2BR House with Garden",
+    "title": "518 N Locust St",
+    "price": "$1,000",
+    "location": "Adrian, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/adrian-518-locust-st/7849754680.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Walk to Business/Law School Available Aug 1- Renovated 2 bedroom apt",
+    "price": "$1,995",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-walk-to-business-law-school/7841839936.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "LBGT friendly",
+    "price": "$1,500",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-lbgt-friendly/7852990796.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "UM Campus 504 4th  #5 Large Studio, Packard & S. Fourth Ave. near Law",
+    "price": "$1,260",
+    "location": "Ann Arbor on Campus",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-um-campus-504-4th-large/7844932696.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "UM Law SL 504  4th  #5 Large Studio, Packard & S. Fourth Ave. near Law",
+    "price": "$1,260",
+    "location": "Ann Arbor on Campus",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-um-law-sl-504-4th-large/7844933155.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2B/1B, Laundry Facility, Hardwood Flooring in Some Areas",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-2b-1b-laundry-facility/7852986934.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2 bedroom, 1 bath top floor unit in duplex on quiet tree lined street",
+    "price": "$1,775",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-bath-top-floor-unit/7852957759.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Westside one bedroom apt for rent: 985 Northwood St.",
+    "price": "$995",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-westside-one-bedroom-apt-for/7852936472.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ann Arbor Central Campus Kerrytown 2 Bdrm Apartment",
+    "price": "$1,720",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-ann-arbor-central-campus/7844687608.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Kerrytown Main Campus 1 Bedroom Apartment Prime Location",
     "price": "$1,200",
-    "location": "Austin, TX",
-    "date": "2024-03-25",
-    "url": "https://example.com/listing2",
-    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+    "location": "715 Lawrence Street",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-kerrytown-main-campus-bedroom/7844687972.html",
+    "image": null,
+    "date": "2025-05-26"
   },
   {
-    "title": "Studio Apartment Near Campus",
-    "price": "$750",
-    "location": "Austin, TX",
-    "date": "2024-03-24",
-    "url": "https://example.com/listing3",
-    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+    "title": "Kerrytown Main Campus 1 Bedroom Apartment",
+    "price": "$1,690",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-kerrytown-main-campus-bedroom/7844687147.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2025-26 School Year -2 Unit Apartment. Last UNIT AVAILABLE!!!",
+    "price": "$2,000",
+    "location": "ann arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-school-year-unit-apartment/7847950650.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2025/26 12 Month lease-2 Unit Apartment. Last UNIT AVAILABLE!!!",
+    "price": "$2,000",
+    "location": "ann arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-month-lease-unit-apartment/7842584445.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/BD 1/BA, Late Fee Forgiveness, Gas Range",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ba-late-fee-forgiveness/7852753855.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Controlled Access, 1/BD, Situated in Ypsilanti!",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-controlled-access-bd-situated/7848007381.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "4 Bd / 3 Ba House - Old West Side - available August 2025 - $3400/mo",
+    "price": "$3,400",
+    "location": "Old West Side",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bd-ba-house-old-west-side/7852689117.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful 2-Bed Ann Arbor Apt in-unit laundry, close to downtown",
+    "price": "$1,790",
+    "location": "Ann Arbor Downtown West",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-beautiful-bed-ann-arbor-apt/7852618681.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Walk to Business/Law School Available Aug 1- Renovated 2 bedroom apt",
+    "price": "$1,995",
+    "location": "Business School, Law, and School of Public Policy",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-walk-to-business-law-school/7845727128.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates 1072-13",
+    "price": "$1,235",
+    "location": "Tecumseh",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7845257211.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates 1084-06",
+    "price": "$1,200",
+    "location": "Tecumseh MI",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7842551687.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2bd 1ba, Cable Ready, Window Coverings",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-2bd-1ba-cable-ready-window/7852596390.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Gorgeous Like New One Bedroom Walkout- Utilities Included/Furnished",
+    "price": "$1,350",
+    "location": "Brighton",
+    "url": "https://annarbor.craigslist.org/apa/d/brighton-gorgeous-like-new-one-bedroom/7852564790.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Brand New 2 and 3 Bedroom Apartments - Huron Vista",
+    "price": "$1,588",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-brand-new-and-bedroom/7852564013.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/BD, Ypsilanti MI, Controlled Access",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ypsilanti-mi-controlled/7852553868.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Brand New 1 & 2 Bedroom Apartments: 55+ Age Restriction Applies",
+    "price": "$1,274",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-brand-new-bedroom-apartments/7852527303.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Manufactured Home for rent",
+    "price": "$895",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-manufactured-home-for-rent/7852508982.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Located in Ypsilanti, 1bd 1ba, Controlled Access",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-located-in-ypsilanti-1bd-1ba/7851947156.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "24-Hour Fitness Center, 2bd 1ba, In Ypsilanti MI",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-24-hour-fitness-center-2bd/7852483654.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "24-Hour Fitness Center, Linen Closet, 1/BD",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-24-hour-fitness-center-linen/7849558577.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Controlled Access, 1/bd, Ypsilanti MI",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-controlled-access-bd/7850242463.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Situated in Ypsilanti!, 2/bd 1/ba, Controlled Access",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-situated-in-ypsilanti-bd-ba/7847489559.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Located in Ypsilanti, Oversized Closets, 2 BD",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-located-in-ypsilanti/7849113611.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Dining Room, Window Coverings, Ceiling Fans",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-dining-room-window-coverings/7851267007.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 bedroom, Controlled Access, Gas Range",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bedroom-controlled-access-gas/7851786623.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Dining Room, Ceiling Fans, Window Coverings",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-dining-room-ceiling-fans/7846507993.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Bark Park, Gas Range, Easy Access to Interstates",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bark-park-gas-range-easy/7852284564.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/bd 1/ba, Ypsilanti MI, Laundry Facility",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ba-ypsilanti-mi-laundry/7851422282.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "WHITMAN CROSSING Apt for Rent",
+    "price": "$741",
+    "location": "Morenci, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/morenci-whitman-crossing-apt-for-rent/7844589509.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Apartments available",
+    "price": "$955",
+    "location": "Morenci, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/morenci-apartments-available/7846520330.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Whitman Crossing Apartments availabe",
+    "price": "$978",
+    "location": "Morenci, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/morenci-whitman-crossing-apartments/7848884411.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/BD, Energy Efficient Boiler Heating System, Dining Room",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-energy-efficient-boiler/7851179830.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates - 1090-23",
+    "price": "$1,090",
+    "location": "Tecumseh MI",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7844287340.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates 1086-11",
+    "price": "$1,220",
+    "location": "Tecumseh MI",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7845257119.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2 Bed 1 Bath Apply Today!",
+    "price": "$1,276",
+    "location": "South Lyon",
+    "url": "https://annarbor.craigslist.org/apa/d/south-lyon-bed-bath-apply-today/7844592406.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cable Ready, BBQ & Picnic Area, Gas Range",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cable-ready-bbq-picnic-area/7851685771.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Spacious Apartment For Rent",
+    "price": "$1,320",
+    "location": "Milan, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/milan-spacious-apartment-for-rent/7844835087.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Spacious Apartment For Rent",
+    "price": "$1,310",
+    "location": "Milan, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/milan-spacious-apartment-for-rent/7845982211.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2 Bedroom Apartment- AVAILABLE NOW",
+    "price": "$1,310",
+    "location": "Milan, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/milan-bedroom-apartment-available-now/7844833877.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Oversized Closets, Gas Range, 2/BD",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-oversized-closets-gas-range-bd/7852227666.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Easy Access to Interstates, 2/bd 1/ba, In Ypsilanti MI",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-easy-access-to-interstates-bd/7849965921.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Oversized Closets, Window Coverings, Linen Closet",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-oversized-closets-window/7852214462.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2/BD 1/BA, Easy Access to Interstates, Located in Ypsilanti",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ba-easy-access-to/7848830399.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2 bedroom, Controlled Access, Window Coverings",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bedroom-controlled-access/7842271921.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Late Fee Forgiveness, Bark Park, 2 Bed",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-late-fee-forgiveness-bark/7848590619.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Gas Range, Bark Park, 2B/1B",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-gas-range-bark-park-2b-1b/7851465445.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "BBQ & Picnic Area, In Ypsilanti, 1/bd 1/ba",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bbq-picnic-area-in-ypsilanti/7845380098.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Dining Room, On Public Transportation Line, Bark Park",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-dining-room-on-public/7850223624.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Dining Room, Energy Efficient Boiler Heating System, 2/bd",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-dining-room-energy-efficient/7849411455.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Campus studio - one block from N. Quad  - 122 N, Thayer St., Ann Arbor",
+    "price": "$1,350",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-campus-studio-one-block-from/7852117134.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Campus studio - great location  815 E. Huron St., AA",
+    "price": "$1,450",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-campus-studio-great-location/7852115576.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 bedroom, Oversized Closets, Located in Ypsilanti",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bedroom-oversized-closets/7849356708.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Window Coverings, Gas Range, Cable Ready",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-window-coverings-gas-range/7850991244.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "one bedroom apartment/ three month lease",
+    "price": "$1,250",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-one-bedroom-apartment-three/7852071454.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Controlled Access, Ceiling Fans, Cable Ready",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-controlled-access-ceiling/7852057607.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "AVAILABLE June 2! UPDATED 2-Bed Apt Close to Ann Arbor downtown",
+    "price": "$1,790",
+    "location": "Ann Abor Downtown West",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-available-june-updated-bed/7852052722.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Located in Ypsilanti, 2 bedroom, Oversized Closets",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-located-in-ypsilanti-bedroom/7850382118.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 Bdrm Apt. near Lake",
+    "price": "$950",
+    "location": "Whitmore Lake",
+    "url": "https://annarbor.craigslist.org/apa/d/whitmore-lake-bdrm-apt-near-lake/7843341506.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Window Coverings, 24-Hour Fitness Center, Bark Park",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-window-coverings-24-hour/7849831268.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Quiet Burns Park Duplex, Walk to UM Central, $959 for Fall",
+    "price": "$950",
+    "location": "Ann Arrbkr, Burns Oark",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-quiet-burns-park-duplex-walk/7852007412.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2BD 1BA, Ypsilanti MI, Laundry Facility",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-2bd-1ba-ypsilanti-mi-laundry/7851995102.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Oversized Closets, Window Coverings, Gas Range",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-oversized-closets-window/7850928577.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "High Speed Internet Ready, 2/BD 1/BA, In Ypsilanti MI",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-high-speed-internet-ready-bd/7847013641.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Studio Apartment available for sublease",
+    "price": "$900",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-studio-apartment-available/7851937748.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ceiling Fans, Oversized Closets, Bark Park",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ceiling-fans-oversized/7848860474.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Energy Efficient Boiler Heating System, Cable Ready, 2bd 1ba",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-energy-efficient-boiler/7848560778.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Gas Range, Window Coverings, Bark Park",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-gas-range-window-coverings/7849576134.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Renovated 2-Bedroom Apartment – Walk to Union! Available Fall 2025",
+    "price": "$1,880",
+    "location": "933 Dewey, UM Central Campus",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-renovated-bedroom-apartment/7846953116.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Renovated 1-Bedroom Apartment – Walk to Union! Available Fall 2025",
+    "price": "$1,260",
+    "location": "933 Dewey, UM Central Campus",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-renovated-bedroom-apartment/7846953196.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Bark Park, Window Coverings, 2BD 1BA",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bark-park-window-coverings/7851766237.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "House for rent at Howell Estates",
+    "price": "$1,070",
+    "location": "Howell",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-house-for-rent-at-howell/7851726941.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates 1074-12",
+    "price": "$1,090",
+    "location": "Tecumseh",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7848863415.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful Spacious 2 bedroom apartments",
+    "price": "$995",
+    "location": "772 Woodcreek Ct. Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-beautiful-spacious-bedroom/7842998031.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Between U of M Hospital & N. Campus",
+    "price": "$1,450",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-between-of-hospital-campus/7844612765.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "*****ANN ARBOR NEAR CAMPUS & KERRY TOWN---RESERVE for AUG 1 2025",
+    "price": "$0",
+    "location": "ANN ARBOR, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ann-arbor-near-campus-kerry/7845860343.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "West side of Ann Arbor- Duplex",
+    "price": "$1,975",
+    "location": "South 7th St.",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-west-side-of-ann-arbor-duplex/7851477046.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Gorgeous, affordable 2 bedroom apartments in Ypsilanti",
+    "price": "$1,015",
+    "location": "772 Woodcreek Ct. Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-gorgeous-affordable-bedroom/7844110314.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful Spacious 2 bedroom apartments near Ann Arbor",
+    "price": "$1,015",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-beautiful-spacious-bedroom/7844109670.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful Spacious 2 bedroom apartments",
+    "price": "$1,015",
+    "location": "772 Woodcreek Ct. Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-beautiful-spacious-bedroom/7844109546.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "You'll love this 1 bedroom, 1 bathroom open concept Ann Arbor condo",
+    "price": "$1,450",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-youll-love-this-bedroom/7851389410.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Spacious 3Bdrm (+1) House, Lg Living Room, Full Bath, Kitchen",
+    "price": "$1,400",
+    "location": "Whitmore Lake, Mi",
+    "url": "https://annarbor.craigslist.org/apa/d/whitmore-lake-spacious-3bdrm-house-lg/7851398120.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/bd, 24-Hour Fitness Center, In Ypsilanti",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-24-hour-fitness-center-in/7851391238.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ypsilanti Unit for Lease!",
+    "price": "$1,275",
+    "location": "Ypsilanti(Ballard)",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ypsilanti-unit-for-lease/7846813942.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/bd 1/ba, Window Coverings, Situated in Ypsilanti!",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ba-window-coverings/7849543887.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Claim your spot! Dive into a spacious 2 BR",
+    "price": "$1,025",
+    "location": "Adrian",
+    "url": "https://annarbor.craigslist.org/apa/d/adrian-claim-your-spot-dive-into/7851360279.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Renovated 2 bedrm apt in Kerry town Walk to Nursing and Medical school",
+    "price": "$1,945",
+    "location": "Kerry town, Nursing school, UM Hospital and Medical Campus",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-renovated-bedrm-apt-in-kerry/7845726643.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Gas Range, Cable Ready, Oversized Closets",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-gas-range-cable-ready/7848610036.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ceiling Fans, BBQ & Picnic Area, Gas Range",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ceiling-fans-bbq-picnic-area/7850655156.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 bedroom, Window Coverings, Situated in Ypsilanti!",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bedroom-window-coverings/7851170023.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful 1 bedroom apartment",
+    "price": "$1,650",
+    "location": "Ypsilanti MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-beautiful-bedroom-apartment/7851146558.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "In Ypsilanti MI, Laundry Facility, 1 bedroom",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-in-ypsilanti-mi-laundry/7851010472.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "U of M Main Campus Kerrytown Apartment",
+    "price": "$1,490",
+    "location": "415 Lawrence Street, Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-of-main-campus-kerrytown/7846117006.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "24-Hour Fitness Center, Cable Ready, Laundry Facility",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-24-hour-fitness-center-cable/7849336066.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates",
+    "price": "$1,200",
+    "location": "Tecumseh",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7848862804.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates 1074-07",
+    "price": "$1,220",
+    "location": "Tecumseh",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7848632575.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Avail fall in Central Campus - Large two bedroom Apt",
+    "price": "$2,200",
+    "location": "921 Mary, #4, Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-avail-fall-in-central-campus/7850945843.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Avail Aug 25, 2025 Large one bedroom apt in Kerry Town",
+    "price": "$1,500",
+    "location": "221 N Fifth, #4, Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-avail-aug-large-one-bedroom/7850945294.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "221 N Fifth Efficiency #1 in Kerytown - Avail Fall, 2025 - yrly lease",
+    "price": "$1,300",
+    "location": "221 N Fifth, #1, Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-221-fifth-efficiency-in/7850944735.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Available Aug 01, 2025 - Two bedroom aparment #1 at 921 Mary",
+    "price": "$2,000",
+    "location": "Near IM building on Hoover, Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-available-aug-two-bedroom/7850943935.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Available Aug 01, 2024 - Large 3 bedroom Apt (921 Mary, #2)",
+    "price": "$3,900",
+    "location": "Central Campus near Hoover and Mary",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-available-aug-large-bedroom/7850943462.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Two bedroom apartment with garage",
+    "price": "$1,695",
+    "location": "Near Skyline High School",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-two-bedroom-apartment-with/7849769652.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Linen Closet, Bark Park, Oversized Closets",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-linen-closet-bark-park/7849101612.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful Gem Apartment- Free *in-Unit* Laundry & Hardwood Floors!",
+    "price": "$1,695",
+    "location": "West Side- Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-beautiful-gem-apartment-free/7850837321.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates 1090-23",
+    "price": "$1,090",
+    "location": "Tecumseh",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7848621365.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates 1074-14",
+    "price": "$1,255",
+    "location": "Tecumseh MI",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7844863764.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Exceptional setting in town Ann Arbor -  duplex with privacy",
+    "price": "$1,900",
+    "location": "Ann Arbor - northeast side",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-exceptional-setting-in-town/7850761240.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Summer Relet at The Varsity Ann Arbor",
+    "price": "$700",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-summer-relet-at-the-varsity/7850772323.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "High Speed Internet Ready, Located in Ypsilanti, 2 BD",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-high-speed-internet-ready/7850726433.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Window Coverings, Bark Park, Linen Closet",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-window-coverings-bark-park/7849127737.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2 Bed, Oversized Closets, 24-Hour Fitness Center",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bed-oversized-closets-24-hour/7850668641.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Situated in Ypsilanti!, Ceiling Fans, 2/bd",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-situated-in-ypsilanti-ceiling/7850110018.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Dining Room, Laundry Facility, 1/bd 1/ba",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-dining-room-laundry-facility/7848924615.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Conklin Estates - 1086-08",
+    "price": "$1,200",
+    "location": "Tecumseh MI",
+    "url": "https://annarbor.craigslist.org/apa/d/tecumseh-conklin-estates/7844298298.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Renovated 2 bedrm apt in Kerry town Walk to Nursing and Medical school",
+    "price": "$1,945",
+    "location": "Kerry town, Nursing school, UM Hospital and Medical Campus",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-renovated-bedrm-apt-in-kerry/7847478954.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful 1 bedroom apartment",
+    "price": "$1,650",
+    "location": "Ypsilanti MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-beautiful-bedroom-apartment/7850217735.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "$3700 4 Bedroom 2.5 Bath in the heart of King Neighborhood",
+    "price": "$3,600",
+    "location": "ann arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-25-bath-in-the-heart/7850147001.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1305 S. University Unit C - Student Housing - Individual Lease $999/mo",
+    "price": "$999",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-1305-university-unit-student/7844345531.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1305 S. University Unit A - Student Housing - Individual Lease",
+    "price": "$999",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-1305-university-unit-student/7844342372.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1305 S. University Unit C - Student Housing",
+    "price": "$4,995",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-1305-university-unit-student/7844344067.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1305 S. University Unit A - 6 Bedroom - Student Housing",
+    "price": "$5,994",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-1305-university-unit-bedroom/7844341411.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "727 S. Forest Unit D - Student Housing - Individual Lease",
+    "price": "$999",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-727-forest-unit-student/7844338892.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "727 S. Forest Unit D - Student Housing - 5-Bedroom Unit",
+    "price": "$4,995",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-727-forest-unit-student/7844337985.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "524 S. Forest Ave Unit A - Student Housing - 6 Bedroom",
+    "price": "$5,129",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-524-forest-ave-unit-student/7844335570.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "524 S. Forest Ave Unit A - Student Housing - Individual Lease",
+    "price": "$855",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-524-forest-ave-unit-student/7844334677.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "524 S. Forest Unit A - 4 Bedroom - Student Housing",
+    "price": "$4,999",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-524-forest-unit-bedroom/7844333320.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "524 S. Forest Ave Unit A - SHORT TERM RENTAL - $855/bed",
+    "price": "$5,129",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-524-forest-ave-unit-short/7842645612.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2-Bedroom, 2 Bath Furnished Apartment Near U of M Central Campus",
+    "price": "$3,200",
+    "location": "S University/S Forest",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-bath-furnished/7849709198.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Two-bedroom House Close to North Campus &Medical School",
+    "price": "$2,100",
+    "location": "Ann Arbor River District",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-two-bedroom-house-close-to/7849292385.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "3 Bedroom Home for rent short term",
+    "price": "$4,000",
+    "location": "golfview lane",
+    "url": "https://annarbor.craigslist.org/apa/d/bedroom-home-for-rent-short-term/7849262522.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful 1 bedroom apartment",
+    "price": "$1,650",
+    "location": "Ypsilanti MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-beautiful-bedroom-apartment/7849228879.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Chelsea lakefront house. 1 bedrm + office space",
+    "price": "$1,350",
+    "location": "Chelsea",
+    "url": "https://annarbor.craigslist.org/apa/d/gregory-chelsea-lakefront-house-bedrm/7849167002.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Manufactured Home for Rent",
+    "price": "$1,295",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-manufactured-home-for-rent/7849179610.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Charming 2-Bedroom Home for Rent – Prime Ann Arbor Location – $1,900 O",
+    "price": "$1,900",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-charming-bedroom-home-for/7848781811.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Apartment Available 201 Ferris Street",
+    "price": "$1,000",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-apartment-available-201/7847814400.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "BBQ & Picnic Area, Dining Room, Oversized Closets",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bbq-picnic-area-dining-room/7848336392.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1B/1B, In Ypsilanti MI, Controlled Access",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-1b-1b-in-ypsilanti-mi/7848316899.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2 Bed, Linen Closet, Ceiling Fans",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bed-linen-closet-ceiling-fans/7847724235.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Whitmore Lake- Fantastic 3bed; 1.5 bath",
+    "price": "$1",
+    "location": "Whitmore Lake",
+    "url": "https://annarbor.craigslist.org/apa/d/whitmore-lake-whitmore-lake-fantastic/7844688907.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Oversized Closets, Bark Park, Window Coverings",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-oversized-closets-bark-park/7848142635.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Window Coverings, Laundry Facility, Dining Room",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-window-coverings-laundry/7848079584.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "3 min walk to U of M Diag: GHLLC #6 RENT REDUCED",
+    "price": "$1,500",
+    "location": "UMich Central Campus",
+    "url": "https://annarbor.craigslist.org/apa/d/min-walk-to-of-diag-ghllc-rent-reduced/7848041225.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Dining Room, Controlled Access, Ceiling Fans",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-dining-room-controlled-access/7846412736.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "New 2025 home for rent at Howell Estates",
+    "price": "$1,299",
+    "location": "Howell",
+    "url": "https://annarbor.craigslist.org/apa/d/howell-new-2025-home-for-rent-at-howell/7848021792.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "House for rent at Howell Estates",
+    "price": "$1,199",
+    "location": "Howell",
+    "url": "https://annarbor.craigslist.org/apa/d/howell-house-for-rent-at-howell-estates/7848021216.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful 2025 for sale at Howell Estates!",
+    "price": "$108,995",
+    "location": "Howell",
+    "url": "https://annarbor.craigslist.org/apa/d/howell-beautiful-2025-for-sale-at/7848020537.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Linen Closet, 1B/1B, In Ypsilanti MI",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-linen-closet-1b-1b-in/7846799273.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Window Coverings, 2/bd 1/ba, Located in Ypsilanti",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-window-coverings-bd-ba/7845715466.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Linen Closet, Dining Room, High Speed Internet Ready",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-linen-closet-dining-room-high/7846136453.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ypsilanti MI, 1BD 1BA, 24-Hour Fitness Center",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ypsilanti-mi-1bd-1ba-24-hour/7847843607.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ceiling Fans, Easy Access to Interstates, Cable Ready",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ceiling-fans-easy-access-to/7847271065.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Oversized Closets, Gas Range, 1/bd",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-oversized-closets-gas-range-bd/7847738478.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Situated in Ypsilanti!, 1B/1B, Cable Ready",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-situated-in-ypsilanti-1b-1b/7843421416.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "On Public Transportation Line, Situated in Ypsilanti!, 2B/1B",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-on-public-transportation-line/7843401457.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2 Bed, Linen Closet, Ypsilanti MI",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bed-linen-closet-ypsilanti-mi/7842906512.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cable Ready, Located in Ypsilanti, 1 bedroom",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cable-ready-located-in/7843851277.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "High Speed Internet Ready, Gas Range, 2/bd",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-high-speed-internet-ready-gas/7844364999.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Bark Park, Oversized Closets, 2bd 1ba",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bark-park-oversized-closets/7842646985.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 BD, Controlled Access, Laundry Facility",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-controlled-access-laundry/7842798060.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "ONE BEDROOM APARTMENT on WHITMORE LAKE",
+    "price": "$1,050",
+    "location": "Whitmore Lake",
+    "url": "https://annarbor.craigslist.org/apa/d/whitmore-lake-one-bedroom-apartment-on/7847623622.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Available now, large Old West Side one bedroom apt",
+    "price": "$2,250",
+    "location": "713 W Liberty #2",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-available-now-large-old-west/7847567387.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Available soon, large 3 bedroom apt in historic Kerrytown church",
+    "price": "$4,450",
+    "location": "Kerrytown (632 N 4th Ave)",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-available-soon-large-bedroom/7847555179.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cable Ready, 24-Hour Fitness Center, 2/bd 1/ba",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cable-ready-24-hour-fitness/7847544638.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Easy Access to Interstates, 2/bd, Located in Ypsilanti",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-easy-access-to-interstates-bd/7846443670.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Late Fee Forgiveness, BBQ & Picnic Area, Bark Park",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-late-fee-forgiveness-bbq/7847512629.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ypsilanti MI, Window Coverings, 2 BD",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ypsilanti-mi-window-coverings/7843055065.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "In Ypsilanti, 2/bd, Bark Park",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-in-ypsilanti-bd-bark-park/7843083830.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Oversized Closets, 2/BD 1/BA, Situated in Ypsilanti!",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-oversized-closets-bd-ba/7843144249.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Laundry Facility, In Ypsilanti, 1B/1B",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-laundry-facility-in-ypsilanti/7845682212.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Charming 6BR House Near UMich – Walk to Campus – Available Fall 2025",
+    "price": "$6,000",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-charming-6br-house-near-umich/7847449428.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Late Fee Forgiveness, Linen Closet, 2BD 1BA",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-late-fee-forgiveness-linen/7845241116.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Dining Room, Linen Closet, High Speed Internet Ready",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-dining-room-linen-closet-high/7843311380.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Linen Closet, High Speed Internet Ready, Bark Park",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-linen-closet-high-speed/7846149792.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Window Coverings, Dining Room, Oversized Closets",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-window-coverings-dining-room/7847256207.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 bedroom, Controlled Access, BBQ & Picnic Area",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bedroom-controlled-access-bbq/7847243395.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "In Ypsilanti MI, 1/BD, On Public Transportation Line",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-in-ypsilanti-mi-bd-on-public/7844301978.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 Bed, Situated in Ypsilanti!, Ceiling Fans",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bed-situated-in-ypsilanti/7845953536.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Controlled Access, BBQ & Picnic Area, Cable Ready",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-controlled-access-bbq-picnic/7846961791.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "In Ypsilanti MI, BBQ & Picnic Area, 1BD 1BA",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-in-ypsilanti-mi-bbq-picnic/7845628901.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Situated in Ypsilanti!, Window Coverings, 2 Bed",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-situated-in-ypsilanti-window/7846735686.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cable Ready, Controlled Access, 1/bd",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cable-ready-controlled-access/7846166549.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Manufactured Home for Rent",
+    "price": "$1,295",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-manufactured-home-for-rent/7846708588.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cable Ready, Late Fee Forgiveness, Laundry Facility",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cable-ready-late-fee/7846685821.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 bedroom apartment",
+    "price": "$1,550",
+    "location": "Kerrytown",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-apartment/7846668943.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "in Newly renovated apartment, close to U of M Business School",
+    "price": "$900",
+    "location": "U of M Central Campus, Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-in-newly-renovated-apartment/7846631011.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Updated 2 bedroom/1 bath in the Old Westside - $2050/month incl water/",
+    "price": "$2,000",
+    "location": "Old Westside",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-updated-bedroom-bath-in-the/7842463800.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/bd 1/ba, Dining Room, Hardwood Flooring in Some Areas",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ba-dining-room-hardwood/7845468763.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cable Ready, Linen Closet, Dining Room",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cable-ready-linen-closet/7842156663.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2bd 1ba, Window Coverings, Ypsilanti MI",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-2bd-1ba-window-coverings/7844815853.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2/BD, Oversized Closets, In Ypsilanti MI",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-oversized-closets-in/7844646638.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "April 29_2 Furnished rooms  for rent",
+    "price": "$590",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-april-292-furnished-rooms-for/7842486950.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Oversized Closets, Late Fee Forgiveness, Dining Room",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-oversized-closets-late-fee/7844114471.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Located in Ypsilanti, Easy Access to Interstates, 1BD 1BA",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-located-in-ypsilanti-easy/7843668622.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 bedroom in country near AA",
+    "price": "$952",
+    "location": "Ann Arbor/Ypsi",
+    "url": "https://annarbor.craigslist.org/apa/d/whitmore-lake-bedroom-in-country-near-aa/7846325890.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "On Public Transportation Line, Ceiling Fans, 1/bd",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-on-public-transportation-line/7845201321.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cozy 1 bedroom ranch style private entry with washer/ dryer in unit",
+    "price": "$1,205",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cozy-bedroom-ranch-style/7846148488.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Oversized Closets, Hardwood Flooring in Some Areas, 2B/1B",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-oversized-closets-hardwood/7844344857.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Energy Efficient Boiler Heating System, Gas Range, 1/BD",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-energy-efficient-boiler/7845930739.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Window Coverings, Controlled Access, 2bd 1ba",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-window-coverings-controlled/7844848768.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "NEW LOW PRICES!!! FREE in apartment Washer and Dryer",
+    "price": "$1,624",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-new-low-prices-free-in/7845883288.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "2/bd 1/ba, Ceiling Fans, Oversized Closets",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ba-ceiling-fans-oversized/7845392817.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 bedroom near EMU",
+    "price": "$870",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bedroom-near-emu/7845867605.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Easy Access to Interstates, BBQ & Picnic Area, 2B/1B",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-easy-access-to-interstates/7845856028.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "True Old West Side light filled Available August 15",
+    "price": "$2,300",
+    "location": "431 Third St #2",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-true-old-west-side-light/7845655240.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Sublease:Canton 1 bedroom.No security deposit. $1300 a month, Ford rd",
+    "price": "$1,300",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-subleasecanton-bedroomno/7845650786.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Bark Park, 2bd 1ba, in Ypsilanti MI",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bark-park-2bd-1ba-in/7843838082.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 BD, Oversized Closets, BBQ & Picnic Area",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-oversized-closets-bbq/7842867626.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1/bd 1/ba, Window Coverings, Cable Ready",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ba-window-coverings-cable/7843795357.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Easy Access to Interstates, Ypsilanti MI, 1/BD",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-easy-access-to-interstates/7844075473.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 BD, Ceiling Fans, Dining Room",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-bd-ceiling-fans-dining-room/7843596301.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Gas Range, Controlled Access, 1bd 1ba",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-gas-range-controlled-access/7844525239.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Manufactured Home for Rent",
+    "price": "$795",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-manufactured-home-for-rent/7845119957.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cable Ready, Gas Range, Bark Park",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cable-ready-gas-range-bark/7845103124.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful Private Loft",
+    "price": "$1,650",
+    "location": "Whitemore lake",
+    "url": "https://annarbor.craigslist.org/apa/d/whitmore-lake-beautiful-private-loft/7844912061.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Manufactured Home for Rent",
+    "price": "$850",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-manufactured-home-for-rent/7844860120.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "High Speed Internet Ready, Dining Room, Ceiling Fans",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-high-speed-internet-ready/7844831022.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "SUMMER SUBLET – Landmark Apartments (Downtown Ann Arbor) Private Room",
+    "price": "$1,300",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-summer-sublet-landmark/7844765501.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Northeast Area",
+    "price": "$1,000",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-northeast-area/7844702351.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Nice 2nd Floor Apartment",
+    "price": "$895",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-nice-2nd-floor-apartment/7844669234.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Gas Range, 1B/1B, In Ypsilanti",
+    "price": "$1,009",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-gas-range-1b-1b-in-ypsilanti/7843981864.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cozy 1 bedroom ranch style, private entry w/ washer & dryer in unit",
+    "price": "$1,110",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cozy-bedroom-ranch-style/7844597768.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Ceiling Fans, BBQ & Picnic Area, Cable Ready",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-ceiling-fans-bbq-picnic-area/7844574684.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Linen Closet, Late Fee Forgiveness, Laundry Facility",
+    "price": "$1,149",
+    "location": "212 Stevens Drive, Ypsilanti, MI",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-linen-closet-late-fee/7843570835.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "5 bedroom 2 bath beautiful and highly upgraded House for Rent",
+    "price": "$4,000",
+    "location": "Ann arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-bath-beautiful-and/7844362437.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Looking for roommate",
+    "price": "$600",
+    "location": "Howell",
+    "url": "https://annarbor.craigslist.org/apa/d/howell-looking-for-roommate/7844171860.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1540 Pear Street; 12-month ranch rental between central & north campus",
+    "price": "$3,450",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-1540-pear-street-12-month/7843938504.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Manufactured Home for rent",
+    "price": "$850",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-manufactured-home-for-rent/7843830385.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Manufactured Home for Rent",
+    "price": "$1,295",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-manufactured-home-for-rent/7843829636.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Artist’s In-Law Suite – A One-of-a-Kind Retreat Near Ann Arbor",
+    "price": "$1,650",
+    "location": "Whitemore lake",
+    "url": "https://annarbor.craigslist.org/apa/d/whitmore-lake-artists-in-law-suite-one/7843631020.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "4 Bedroom house for rent $3600/month",
+    "price": "$3,600",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-house-for-rent-3600/7843335941.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Close to EMU, WCC, & St. Joe’s!",
+    "price": "$1,219",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-close-to-emu-wcc-st-joes/7843197897.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "A Perfect Fit for You & Your Pet! Pet Stations & Walk out Patios!",
+    "price": "$1,199",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-perfect-fit-for-you-your-pet/7843196632.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "A Parklike Setting! Enjoy the Scenery & Outdoors at Golfside Lake",
+    "price": "$1,149",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-parklike-setting-enjoy-the/7843193107.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Cozy 1 bedroom ranch style private entry with washer/ dryer in unit",
+    "price": "$1,205",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cozy-bedroom-ranch-style/7843172159.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "1 Bedroom a block from Law Quad and Ross Business School",
+    "price": "$1,275",
+    "location": "U of M Central Campus",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-bedroom-block-from-law-quad/7843095436.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "🏡 Cozy Studio Apartment – Pet Friendly | All Utilities Included",
+    "price": "$795",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-cozy-studio-apartment-pet/7842872003.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "🏠 Studio Apartment in Downtown Ypsi – $730/mo – Available 8/1/25",
+    "price": "$730",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-studio-apartment-in-downtown/7842869797.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "🏡 Room for Rent – 20 N. Summit, Ypsilanti, MI 48197 – Walk to EMU!",
+    "price": "$550",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-room-for-rent-20-summit/7842867218.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "🏡 Studio Apartment for Rent – 15 N. Hamilton St, Ypsilanti, MI 48197",
+    "price": "$895",
+    "location": "Ypsilanti",
+    "url": "https://annarbor.craigslist.org/apa/d/ypsilanti-studio-apartment-for-rent-15/7842858025.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Beautiful one-bedroom home available NOW!",
+    "price": "$1,549",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-beautiful-one-bedroom-home/7842315618.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Hurry... THIS IS A MUST SEE!!",
+    "price": "$1,325",
+    "location": "Milford",
+    "url": "https://annarbor.craigslist.org/apa/d/wixom-hurry-this-is-must-see/7842302871.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Hurry... THIS IS A MUST SEE!!",
+    "price": "$1,100",
+    "location": "Milford",
+    "url": "https://annarbor.craigslist.org/apa/d/wixom-hurry-this-is-must-see/7842269953.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "Hurry... THIS IS A MUST SEE!!",
+    "price": "$1,100",
+    "location": "Milford",
+    "url": "https://annarbor.craigslist.org/apa/d/wixom-hurry-this-is-must-see/7842268640.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "APPLY TODAY!",
+    "price": "$1,990",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-apply-today/7842262026.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "manufactured room to rent in Brighton Mi",
+    "price": "$700",
+    "location": "Brighton",
+    "url": "https://annarbor.craigslist.org/apa/d/brighton-manufactured-room-to-rent-in/7842108965.html",
+    "image": null,
+    "date": "2025-05-26"
+  },
+  {
+    "title": "UMICH Sublease - furnished true 1B1B, 5/3 - 7/29, $1400 per month",
+    "price": "$1,400",
+    "location": "Ann Arbor",
+    "url": "https://annarbor.craigslist.org/apa/d/ann-arbor-umich-sublease-furnished-true/7841796274.html",
+    "image": null,
+    "date": "2025-05-26"
   }
-] 
+]
