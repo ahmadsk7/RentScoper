@@ -1,28 +1,49 @@
+import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import { useState } from 'react';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { Text, View } from 'react-native';
 import HomeScreen from './screens/HomeScreen';
 import SavedScreen from './screens/SavedScreen';
+import TestScreen from './screens/TestScreen';
 
-const Stack = createNativeStackNavigator();
+const Tab = createBottomTabNavigator();
 
 // Load the rental data
 const rentalData = require('./data/rentals.json');
 
 export default function App() {
   // Initialize state with the rental data
-  const [listings] = useState(rentalData);
+  const [listings] = React.useState(rentalData);
 
   return (
     <NavigationContainer>
-      <Stack.Navigator>
-        <Stack.Screen 
+      <Tab.Navigator>
+        <Tab.Screen 
           name="Home" 
-          component={HomeScreen}
+          component={HomeScreen} 
           initialParams={{ listings }}
+          options={{
+            tabBarLabel: 'Home',
+            tabBarTestID: 'home-tab'
+          }}
         />
-        <Stack.Screen name="Saved" component={SavedScreen} />
-      </Stack.Navigator>
+        <Tab.Screen 
+          name="Saved" 
+          component={SavedScreen}
+          options={{
+            tabBarLabel: 'Saved',
+            tabBarTestID: 'saved-tab'
+          }}
+        />
+        <Tab.Screen 
+          name="Test" 
+          component={TestScreen}
+          options={{
+            tabBarLabel: 'Test',
+            tabBarTestID: 'test-tab'
+          }}
+        />
+      </Tab.Navigator>
     </NavigationContainer>
   );
 } 

@@ -19,6 +19,13 @@ export default function AppLayout() {
           tabBarIcon: ({ color }) => <FontAwesome name="bookmark" size={24} color={color} />,
         }}
       />
+      <Tabs.Screen
+        name="rent-prices"
+        options={{
+          title: 'Rent Trends',
+          tabBarIcon: ({ color }) => <FontAwesome name="line-chart" size={24} color={color} />,
+        }}
+      />
     </Tabs>
   );
 }

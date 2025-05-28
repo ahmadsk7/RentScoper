@@ -1,12 +1,16 @@
 import { View, Text, StyleSheet, FlatList, Image, ActivityIndicator, RefreshControl } from 'react-native';
 import { useState, useEffect } from 'react';
 import * as FileSystem from 'expo-file-system';
+import ListingCard from '../components/ListingCard';
+import AverageRentChart from '../components/AverageRentChart';
+import { aggregatePrices } from '../utils/helpers';
 
 export default function HomeScreen() {
   const [listings, setListings] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [refreshing, setRefreshing] = useState(false);
+  const [aggregatedData, setAggregatedData] = useState([]);
 
   const loadListings = async () => {
     try {
@@ -27,6 +31,9 @@ export default function HomeScreen() {
       const data = JSON.parse(content);
       console.log('Loaded listings:', data.slice(0, 2)); // Log first two listings
       setListings(data);
+
+      const aggregatedData = aggregatePrices(data);
+      setAggregatedData(aggregatedData);
     } catch (err) {
       setError('Failed to load listings. Please try again.');
       console.error('Error loading listings:', err);
@@ -92,23 +99,11 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
+      <AverageRentChart data={aggregatedData} />
       <FlatList
         data={listings}
-        renderItem={renderItem}
         keyExtractor={(item) => item.url}
-        contentContainerStyle={styles.listContainer}
-        refreshControl={
-          <RefreshControl
-            refreshing={refreshing}
-            onRefresh={onRefresh}
-            colors={['#2ecc71']}
-          />
-        }
-        ListEmptyComponent={
-          <View style={styles.centered}>
-            <Text style={styles.emptyText}>No listings available</Text>
-          </View>
-        }
+        renderItem={({ item }) => <ListingCard listing={item} />}
       />
     </View>
   );
