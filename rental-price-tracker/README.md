@@ -1,3 +1,122 @@
+# Rental Price Tracker
+
+A React Native application that tracks and visualizes rental prices in Ann Arbor, helping users understand the rental market trends.
+
+## Features
+
+### 1. Rental Listings
+
+- Scrapes rental listings from Craigslist
+- Displays listings with key information:
+  - Price
+  - Location
+  - Title
+  - Date posted
+  - URL
+
+### 2. Price Trends Visualization
+
+- Interactive bar chart showing average rent prices by area
+- Color-coded bars indicating price ranges
+- Real-time price updates
+- Easy-to-read location labels and price tags
+
+### 3. Data Management
+
+- Automatic data collection through web scraping
+- Historical price tracking
+- Data aggregation by location
+- JSON storage for easy data access
+
+## Tech Stack
+
+### Frontend
+
+- **React Native** with Expo for cross-platform mobile development
+- **TypeScript** for type safety and better development experience
+- **Victory Native** for data visualization
+- **React Navigation** for screen navigation
+
+### Backend/Data Collection
+
+- **Python** for web scraping
+- **BeautifulSoup4** for HTML parsing
+- **Requests** for HTTP requests
+
+### Data Storage
+
+- JSON files for data persistence
+- AsyncStorage for local data caching
+
+## Project Structure
+
+```
+rental-price-tracker/
+├── app/                    # Main application screens
+│   ├── rent-prices.tsx    # Price trends visualization
+│   └── _layout.tsx        # Navigation layout
+├── components/            # Reusable UI components
+│   ├── ListingCard.tsx   # Individual listing display
+│   └── AverageRentChart.tsx # Price visualization
+├── utils/                # Utility functions
+│   └── helpers.ts        # Data processing helpers
+├── data/                 # Data storage
+│   ├── rentals.json     # Current listings
+│   └── rentals_history.json # Historical data
+└── scraper.py           # Web scraping script
+```
+
+## Setup and Installation
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Install Python dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the scraper to collect data:
+   ```bash
+   python scraper.py
+   ```
+5. Start the Expo development server:
+   ```bash
+   npx expo start
+   ```
+
+## How It Works
+
+1. **Data Collection**
+
+   - The Python scraper collects rental listings from Craigslist
+   - Data is saved to JSON files with timestamps
+   - Historical data is maintained for trend analysis
+
+2. **Data Processing**
+
+   - Listings are aggregated by location
+   - Average prices are calculated
+   - Data is formatted for visualization
+
+3. **Visualization**
+   - Interactive bar chart shows price trends
+   - Color intensity indicates price ranges
+   - Easy-to-read labels and price tags
+
+## Future Enhancements
+
+- Price drop alerts
+- Filtering by price range and location
+- More detailed property information
+- User favorites and saved searches
+- Push notifications for new listings
+
+## Contributing
+
+Feel free to submit issues and enhancement requests!
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
